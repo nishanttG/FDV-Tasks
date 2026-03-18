@@ -1,0 +1,42 @@
+# --- Core Data Science ---
+numpy
+pandas
+scikit-learn
+scipy
+
+# --- Models & Imbalance (Day 2 & 3) ---
+xgboost
+imbalanced-learn
+
+# --- Explainability & Calibration (Day 4) ---
+shap
+matplotlib
+seaborn
+
+# --- Fairness (Day 5) ---
+fairlearn
+
+# --- House Rules: Data Validation ---
+pandera
+
+# --- House Rules: Experiment Tracking ---
+wandb
+
+# --- House Rules: App & API ---
+fastapi
+uvicorn
+streamlit
+pydantic
+
+# --- House Rules: Testing ---
+pytest
+pytest-cov
+
+# --- Development Tools (REQUIRED for VS Code) ---
+ipykernel
+jupyter
+notebook
+
+# --- Utilities ---
+python-dotenv
+joblib

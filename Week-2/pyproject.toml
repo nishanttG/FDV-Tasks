@@ -1,0 +1,15 @@
+[tool.ruff]
+# Root directories to lint
+src = ["src"]
+
+# Files to include (optional)
+include = ["pyproject.toml", "src/**/*.py"]
+
+[tool.ruff.lint]
+# Optional: add extra checks or extend default rules
+# extend-select = ["I"]  # import sorting, remove if you don't want it
+
+[tool.ruff.lint.isort]
+# Treat `src` as first-party code for import sorting
+known-first-party = ["src"]
+force-sort-within-sections = true
