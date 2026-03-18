@@ -1,0 +1,8 @@
+{
+  "run": "day2_prompt_eval",
+  "python_version": "",
+  "seed": 42,
+  "n_examples": 200,
+  "data_checksums": {},
+  "notes": "Fill in python_version and data_checksums after run."
+}

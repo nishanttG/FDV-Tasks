@@ -1,0 +1,10 @@
+{
+  "run": "day3_lora",
+  "python_version": "",
+  "seed": 42,
+  "train_size": 1000,
+  "eval_size": 250,
+  "adapter_path": "results/day3/model_adapter",
+  "data_checksums": {},
+  "notes": "Fill in python_version, compute and data_checksums after run."
+}

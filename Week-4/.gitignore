@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+envs/
+.conda/
+.mamba/
+
+# Conda env lockfiles (if you keep them locally)
+conda-meta/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Results and logs
+*.log
+
+# Misc
+*.pyc
+*.pyo
+*.pyd
+
+.data
+.data/
+data/

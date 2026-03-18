@@ -1,0 +1,54 @@
+# Core Python tools
+numpy
+pandas
+scikit-learn
+seaborn
+
+# NLP preprocessing
+nltk
+spacy
+
+# Classic baseline modeling
+scikit-learn
+
+# LLM usage (OpenAI or HuggingFace)
+openai>=1.0.0
+transformers
+accelerate
+huggingface_hub
+trl
+bitsandbytes       # Only if GPU available—safe to keep; ignored on CPU
+
+# Lightweight fine-tuning (LoRA/PEFT)
+peft
+
+# Experiment tracking
+wandb
+
+# Robustness & safety evaluation
+textattack
+ Detoxify @ git+https://github.com/unitaryai/detoxify.git  # optional but very good
+
+# Validation
+pandera
+
+# API
+fastapi
+uvicorn
+
+# Streamlit
+streamlit
+
+# Utilities
+python-dotenv
+tqdm
+
+# BM25 Mini Search Engine (Side Quest)
+rank-bm25
+
+# Testing
+pytest
+pytest-cov
+
+# pip tools (to generate lock files)
+pip-tools

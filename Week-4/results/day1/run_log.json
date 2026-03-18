@@ -1,0 +1,9 @@
+{
+    "dataset_checksum_source": "extracted_readme",
+    "dataset_md5": "caa4504e603928cc7c7a1abf204bc64f",
+    "metrics": {
+        "macro_f1": 0.8883530673507053,
+        "accuracy": 0.88836
+    },
+    "seed": 42
+}

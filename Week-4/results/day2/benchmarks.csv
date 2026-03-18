@@ -1,0 +1,21 @@
+Model,Strategy,Temp,F1,Accuracy,Latency
+Qwen-0.5B,Zero-Shot Basic,0.1,0.8667,0.86,2.08
+Qwen-0.5B,Zero-Shot Persona,0.1,0.6435,0.68,0.15
+Qwen-0.5B,Few-Shot (1-shot),0.1,0.8572,0.86,0.11
+Qwen-0.5B,Few-Shot (3-shot),0.1,0.4544,0.56,1.2
+Qwen-0.5B,Chain of Thought,0.1,0.6729,0.58,1.83
+Qwen-0.5B,Zero-Shot Basic,0.7,0.8367,0.82,1.7
+Qwen-0.5B,Zero-Shot Persona,0.7,0.7211,0.74,0.43
+Qwen-0.5B,Few-Shot (1-shot),0.7,0.8164,0.82,0.15
+Qwen-0.5B,Few-Shot (3-shot),0.7,0.6435,0.68,0.96
+Qwen-0.5B,Chain of Thought,0.7,0.7328,0.64,1.88
+Zephyr-7B,Zero-Shot Basic,0.1,0.865,0.86,3.47
+Zephyr-7B,Zero-Shot Persona,0.1,0.8188,0.8,3.34
+Zephyr-7B,Few-Shot (1-shot),0.1,0.7749,0.72,3.85
+Zephyr-7B,Few-Shot (3-shot),0.1,0.7888,0.78,4.62
+Zephyr-7B,Chain of Thought,0.1,0.8006,0.7,3.66
+Zephyr-7B,Zero-Shot Basic,0.7,0.9282,0.92,3.04
+Zephyr-7B,Zero-Shot Persona,0.7,0.8387,0.8,3.45
+Zephyr-7B,Few-Shot (1-shot),0.7,0.7381,0.64,3.64
+Zephyr-7B,Few-Shot (3-shot),0.7,0.7408,0.7,3.77
+Zephyr-7B,Chain of Thought,0.7,0.6218,0.48,3.69
