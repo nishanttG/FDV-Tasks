@@ -1,0 +1,20 @@
+
+        DAY-4: GRAPHSAGE RESULTS
+        Macro F1 Score: 0.8349
+        Inference Time: 12.06 ms
+        Training Time:  4.69 s
+        
+        Detailed Report:
+                      precision    recall  f1-score   support
+
+      Rights       1.00      0.85      0.92        20
+   Judiciary       1.00      0.75      0.86         8
+  Federalism       0.67      0.67      0.67         3
+  Governance       0.80      0.94      0.86        17
+       Other       0.84      0.90      0.87        29
+
+    accuracy                           0.87        77
+   macro avg       0.86      0.82      0.83        77
+weighted avg       0.88      0.87      0.87        77
+
+        

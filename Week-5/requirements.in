@@ -1,0 +1,44 @@
+# ---------- Data & Parsing ----------
+pandas
+numpy
+requests
+pdfplumber
+regex
+
+# ---------- Knowledge Graph ----------
+neo4j
+networkx
+pyvis
+
+# ---------- Validation & Utilities ----------
+pandera
+tqdm
+streamlit
+fastapi
+python-multipart
+uvicorn            
+
+# ---------- NLP / Text Embeddings ----------
+scikit-learn
+sentence-transformers
+
+# ---------- Graph ML ----------
+node2vec
+torch
+torch-geometric
+
+# ---------- Visualization ----------
+matplotlib
+seaborn
+
+# ---------- Notebooks ----------
+jupyter
+ipykernel
+
+# ---------- OPTIONAL (Day 4 Experiments) ----------
+wandb
+
+python-dotenv
+pytest
+joblib
+exceptiongroup
