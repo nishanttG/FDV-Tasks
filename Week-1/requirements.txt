@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+beautifulsoup4
+selenium
+ydata-profiling
+scikit-learn
+scipy
+catboost
+requests
+lxml
