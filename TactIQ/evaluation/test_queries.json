@@ -1,0 +1,177 @@
+{
+  "test_queries": [
+    {
+      "id": "Q001",
+      "category": "player_scout_report",
+      "query": "Florian Wirtz scout report 2025-2026",
+      "expected_player": "Florian Wirtz",
+      "expected_season": "2025-2026",
+      "expected_modules": ["identity", "shooting", "passing", "progression", "defensive"],
+      "ground_truth": {
+        "goals": 1,
+        "assists": 1,
+        "team": "Liverpool",
+        "position": "MF,FW"
+      }
+    },
+    {
+      "id": "Q002",
+      "category": "player_scout_report",
+      "query": "Mohamed Salah scout report 2025-2026",
+      "expected_player": "Mohamed Salah",
+      "expected_season": "2025-2026",
+      "expected_position_template": "forward",
+      "ground_truth": {
+        "goals": 7,
+        "assists": 9,
+        "team": "Liverpool",
+        "position": "FW,MF"
+      }
+    },
+    {
+      "id": "Q003",
+      "category": "goalkeeper_report",
+      "query": "Alisson Becker scout report 2025-2026",
+      "expected_player": "Alisson Becker",
+      "expected_season": "2025-2026",
+      "expected_position_template": "goalkeeper",
+      "ground_truth": {
+        "team": "Liverpool",
+        "position": "GK"
+      }
+    },
+    {
+      "id": "Q004",
+      "category": "defender_report",
+      "query": "Virgil van Dijk performance 2025-2026",
+      "expected_player": "Virgil van Dijk",
+      "expected_season": "2025-2026",
+      "expected_position_template": "defender"
+    },
+    {
+      "id": "Q005",
+      "category": "comparison",
+      "query": "Compare Haaland vs Mbappe 2025-2026",
+      "expected_players": ["Erling Haaland", "Kylian Mbappe"],
+      "expected_season": "2025-2026",
+      "comparison": true
+    },
+    {
+      "id": "Q006",
+      "category": "tactical",
+      "query": "How does Wirtz perform in possession-based systems?",
+      "expected_player": "Florian Wirtz",
+      "requires_blogs": true,
+      "tactical_analysis": true
+    },
+    {
+      "id": "Q007",
+      "category": "season_specific",
+      "query": "Salah performance this season",
+      "expected_player": "Mohamed Salah",
+      "expected_season": "2025-2026",
+      "season_inference": true
+    },
+    {
+      "id": "Q008",
+      "category": "historical",
+      "query": "Messi 2021-2022 season",
+      "expected_player": "Lionel Messi",
+      "expected_season": "2021-2022"
+    },
+    {
+      "id": "Q009",
+      "category": "ambiguous_name",
+      "query": "Becker scout report",
+      "expected_challenge": "multiple_matches",
+      "note": "Should disambiguate between Alisson Becker and Sheraldo Becker"
+    },
+    {
+      "id": "Q010",
+      "category": "misspelling",
+      "query": "Alisson Becker report 2025-2026",
+      "expected_player": "Alisson Becker",
+      "expected_season": "2025-2026",
+      "fuzzy_matching": true
+    },
+    {
+      "id": "Q011",
+      "category": "multi_position",
+      "query": "Wirtz as attacking midfielder analysis",
+      "expected_player": "Florian Wirtz",
+      "expected_position_template": "midfielder",
+      "position_specific": true
+    },
+    {
+      "id": "Q012",
+      "category": "statistical_query",
+      "query": "How many goals did Salah score this season?",
+      "expected_player": "Mohamed Salah",
+      "expected_answer_type": "numerical",
+      "ground_truth_value": 7
+    },
+    {
+      "id": "Q013",
+      "category": "team_filter",
+      "query": "Liverpool forwards 2025-2026",
+      "expected_team": "Liverpool",
+      "expected_position": "FW",
+      "expected_season": "2025-2026",
+      "multiple_results": true
+    },
+    {
+      "id": "Q014",
+      "category": "performance_evaluation",
+      "query": "Is Wirtz worth 110M?",
+      "expected_player": "Florian Wirtz",
+      "requires_tactical_analysis": true,
+      "valuation_query": true
+    },
+    {
+      "id": "Q015",
+      "category": "web_fallback",
+      "query": "Latest transfer news for Haaland",
+      "expected_web_search": true,
+      "note": "Should trigger web search fallback"
+    }
+  ],
+  "stress_test_queries": [
+    {
+      "id": "S001",
+      "category": "concurrent_load",
+      "queries": [
+        "Wirtz scout report",
+        "Salah performance",
+        "Haaland goals",
+        "Mbappe stats",
+        "De Bruyne analysis"
+      ],
+      "concurrent": true,
+      "expected_time_per_query": 30
+    },
+    {
+      "id": "S002",
+      "category": "rapid_succession",
+      "queries": [
+        "Salah 2025-2026",
+        "Salah 2024-2025",
+        "Salah 2023-2024",
+        "Salah 2022-2023",
+        "Salah 2021-2022"
+      ],
+      "delay_between": 1,
+      "test_caching": true
+    },
+    {
+      "id": "S003",
+      "category": "complex_queries",
+      "queries": [
+        "Compare top 5 Premier League goalscorers 2025-2026",
+        "Best young midfielders under 23 in Europe",
+        "Most improved players this season vs last season"
+      ],
+      "expected_complexity": "high",
+      "requires_reasoning": true
+    }
+  ]
+}

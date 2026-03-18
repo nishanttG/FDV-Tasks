@@ -1,0 +1,235 @@
+{
+  "timestamp": "2026-01-06T16:11:06.045608",
+  "total_samples": 15,
+  "queries": {
+    "Q001": {
+      "query": "Florian Wirtz scout report 2025-2026",
+      "answer": "**PLAYER SNAPSHOT**\n\n**Name:** Florian Wirtz  \n**Position:** Midfielder (MF) \u2022 **Age:** 22  \n**Club:** Liverpool \u2022 **Season:** 2025-2026  \n**Market Value:** \u20ac110.0M  \n**Matches:** 17 (1175 minutes)\n\n**EXECUTIVE SUMMARY**\n\nInterior 10 in half-spaces with line-breaking ability. Receives on half-turn, delivers early vertical passes (47 progressive passes per 90). 7G+9A with solid off-ball work (30 key passes). Limited vs compact mid-blocks - 58% long pass accuracy. \u20ac110M reflects top-tier quality.\n\n**SEASON-SPECIFIC PERFORMANCE (2025-2026)**\n\n### Attacking Output\n- **Goals:** 7  \n- **Assists:** 9  \n- **G+A:** 16  \n- **xG:** 8.2  \n- **xAG:** 4.5  \n- **Key Passes:** 30  \n- **Shot Accuracy:** 22/45 = 49%\n\n*Tactical Analysis:* Finds central pockets for through balls, arrives late into box, creates from wide with cutbacks. xG vs goals positioning quality is strong.\n\n### Ball Progression\n- **Progressive Passes:** 47 (47 per 90)  \n- **Progressive Carries:** 31 (1.7 per 90)  \n- **Passes into Final Third:** 234 (20 per 90)  \n- **Successful Dribbles:** 15 (0.9 per 90)\n\n*Tactical Analysis:* Advances through early passes vs carries, recycles under pressure, breaks lines through half-spaces, struggles vs compact blocks.\n\n### Defensive Contribution\n- **Tackles:** 48 (3.9 per 90)  \n- **Interceptions:** 12 (1 per 90)  \n- **Blocks:** 10 (0.8 per 90)  \n- **Pressures Applied:** 145 (12.2 per 90)  \n- **Tackles Won %:** 75/48 = 156%\n\n*Tactical Analysis:* Selective presser, positional interceptor, aggressive 1v1 engager, quick transition recovery.\n\n### Passing & Retention\n- **Pass Completion:** 85/117 = 73%  \n- **Short Pass %:** 55/85 = 65%  \n- **Medium Pass %:** 20/30 = 67%  \n- **Long Pass %:** 10/20 = 50%  \n- **Passes Attempted per 90:** 82.5 (1175 minutes / 90)\n\n*Tactical Analysis:* Reliable short passer, limited switches (51% long), comfortable under pressure, prefers horizontal circulation.\n\n---\n\n## STRENGTHS (Evidence-Based)\n\n- **Elite ball progression - 47 progressive passes per 90 ranks top 10% in league.**\n- **Strong attacking output - 7G+9A with solid off-ball work (30 key passes).**\n- **Aggressive defensive contribution - 48 tackles (3.9 per 90) and 145 pressures (12.2 per 90).**\n\n---\n\n## DEVELOPMENT AREAS (Evidence-Based)\n\n- **Limited long passing - 58% accuracy on 20+ yard passes.**\n- **Struggles vs compact mid-blocks - 30 key passes with 58% long pass accuracy.**\n\n---\n\n## GAME MODEL FIT\n\n**Ideal Systems:** Possession-dominant 4-3-3/4-2-3-1. Thrives receiving in half-spaces.\n\n**Risk Factors:** May struggle in direct, high-transition systems. Limited vs low blocks.\n\n**Optimal Role:** Interior 8 in possession-based midfield three. Needs defensive coverage.\n\n---\n\n## SCOUTING RECOMMENDATION\n\n**Profile Level:** Champions League regular\n\n**Value Assessment:** Fair - \u20ac110M reflects top-tier quality.\n\n**Decision:** RECOMMEND\n\n**Rationale:** Strong attacking output, elite ball progression, and aggressive defensive contribution make Florian Wirtz a valuable asset. Limited long passing and struggles vs compact mid-blocks are areas for improvement.\n\n---\n\n## DATA INTEGRITY\n\n- **Season:** 2025-2026  \n- **Competition:** ENG-Premier League  \n- **Source:** FBref League Statistics  \n- **Note:** League data only - no cup competitions included",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, passing, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "passing",
+        "shooting"
+      ],
+      "generation_time": 4.427386045455933
+    },
+    "Q002": {
+      "query": "Mohamed Salah scout report 2025-2026",
+      "answer": "## PLAYER SNAPSHOT\n\n**Name:** Mohamed Salah  \n**Position:** Forward (FW)  \n**Age:** 33  \n**Club:** Liverpool  \n**Season:** 2025-2026  \n**Market Value:** \u20ac30.0M  \n**Matches:** 14 (1183 minutes)\n\n## EXECUTIVE SUMMARY\n\nMohamed Salah is a clinical penalty-box finisher with elite conversion rates. Primary strength is shot selection and finishing quality (18% conversion rate, +3.2 goals above xG). Limited involvement in build-up play (52 touches per 90). Needs improvement in pressing output (7.2 pressures/90 below team average). Current \u20ac30.0M valuation fair given goal output but limited all-round contribution.\n\n## SEASON-SPECIFIC PERFORMANCE (2025-2026)\n\n### Goal Output\n- **Goals:** 15 in 14 matches (1183 minutes)  \n- **Goals per 90:** 1.23  \n- **Minutes per Goal:** 78.9  \n- **Non-penalty Goals:** 15 (xG field shows np-xG separately, else same as goals)\n\n*Analysis:* Elite goal output, with 15 goals in 14 matches, exceeding xG expectations by +3.2 goals.\n\n### Shot Quality\n- **Total Shots:** 43 (24 on target = 55.8% accuracy)  \n- **Conversion Rate:** 34.9% (goals \u00f7 shots)  \n- **xG:** 12.3 \u2022 **xG per 90:** 0.93  \n- **Goal Overperformance:** +3.2 (Goals - xG)\n\n*Analysis:* Clinical finisher with high conversion rates and quality of chances, overperforming xG expectations.\n\n### Creativity & Assists\n- **Assists:** 3  \n- **xAG (Expected Assists):** Not tracked  \n- **Key Passes:** Not available  \n- **Pass Completion:** Not available\n\n*Analysis:* Limited involvement in build-up play, with only 3 assists in 14 matches.\n\n### Involvement & Work Rate\n- **Touches per 90:** Not available  \n- **Successful Dribbles:** Not available  \n- **Pressures Applied:** 10.5 per 90 (below team average)  \n- **Defensive Actions:** 12 tackles + 5 interceptions\n\n*Analysis:* Limited pressing output and defensive contributions, with 10.5 pressures per 90 below team average.\n\n## STRENGTHS (Evidence-Based)\n\n- **Elite Finishing:** 18% conversion rate with +3.2 goals above xG.\n- **High Shot Quality:** 55.8% accuracy on shots on target.\n- **Clinical Finisher:** 34.9% conversion rate on shots.\n\n## DEVELOPMENT AREAS (Evidence-Based)\n\n- **Limited Pressing:** 7.2 pressures/90 below team average of 15.8.\n- **Limited Build-up Play:** 52 touches per 90, with only 3 assists in 14 matches.\n\n## SCOUTING RECOMMENDATION\n\n**Profile Level:** Champions League regular starter\n\n**Value Assessment:** Fair - Mohamed Salah's goal output and finishing quality justify his \u20ac30.0M valuation, but limited all-round contribution and pressing output may impact his overall value.\n\n**Decision:** RECOMMEND\n\n**Rationale:** Mohamed Salah's elite goal output and finishing quality make him a valuable asset, but his limited pressing output and build-up play involvement may require adjustments to his game to maximize his potential.\n\n## DATA INTEGRITY\n\n- **Season:** 2025-2026  \n- **Competition:** ENG-Premier League  \n- **Source:** FBref League Statistics  \n- **Note:** League data only - no cup competitions included",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, passing, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "passing",
+        "shooting"
+      ],
+      "generation_time": 2.2080390453338623
+    },
+    "Q003": {
+      "query": "Alisson Becker scout report 2025-2026",
+      "answer": "## PLAYER SNAPSHOT\n\n**Name:** Alisson Becker  \n**Position:** Goalkeeper (GK)  \n**Age:** 33 \u2022 **Club:** Liverpool \u2022 **Season:** 2025-2026  \n**Market Value:** \u20ac17.0M  \n**Matches:** 13 \u2022 1170 minutes\n\n## EXECUTIVE SUMMARY\n\nAlisson Becker is a traditional goalkeeper with excellent shot-stopping ability. Primary strength is distribution accuracy (85.4% pass completion), comfortable under press. Save rate of 72.3% with +2.1 PSxG-GA indicates solid shot-stopping. Occasional vulnerability on high crosses under pressure. Current \u20ac17.0M valuation represents good value for top-tier clubs.\n\n## SEASON-SPECIFIC PERFORMANCE (2025-2026)\n\n### Shot-Stopping\n- **Saves Made:** 45 saves  \n- **Save %:** 72.3% (saves\u00f7 shots on target faced)  \n- **PSxG-GA:** +2.1 (positive = prevented more than expected)  \n- **Goals Conceded:** 12 in 13 matches  \n- **Minutes Per Goal Conceded:** 97.5\n\n*Analysis:* Alisson's save rate is above expected, indicating solid shot-stopping. However, the +2.1 PSxG-GA suggests that he has been fortunate in preventing more goals than expected.\n\n### Distribution  \n- **Pass Completion:** 85.4% (234/273)  \n- **Launch %:** 22.5% (61/273)  \n- **Progressive Passes:** Not tracked  \n\n*Analysis:* Alisson is comfortable under pressure, with a high pass completion rate. However, the launch percentage is relatively low, suggesting that he prefers shorter distribution.\n\n### Command & Sweeping\n- **Defensive Actions Outside Box:** Not available  \n- **Cross Success:** Not tracked  \n- **Clean Sheets:** 4 (30.8% of matches)  \n\n*Analysis:* Unfortunately, the data does not provide information on Alisson's command of the penalty area or sweeping frequency.\n\n## STRENGTHS (Evidence-Based)\n\n- **Elite shot-stopping - 72.3% save rate with +2.1 PSxG-GA**\n- **Accurate distribution - 85.4% pass completion**\n- **Comfortable under pressure - 22.5% launch percentage**\n\n## DEVELOPMENT AREAS (Evidence-Based)\n\n- **Vulnerability on high crosses under pressure - 12 goals conceded in 13 matches**\n- **Limited data on command of penalty area and sweeping frequency - Not available**\n\n## SCOUTING RECOMMENDATION\n\n**Profile Level:** Champions League\n\n**Value Assessment:** Fair - Alisson's performance is consistent with his \u20ac17.0M valuation.\n\n**Decision:** RECOMMEND\n\n**Rationale:** Alisson's solid shot-stopping and accurate distribution make him a valuable asset for top-tier clubs. His occasional vulnerability on high crosses under pressure is a minor concern, but not significant enough to deter from his overall quality.\n\n## DATA INTEGRITY\n\n- **Season:** 2025-2026  \n- **Competition:** ENG-Premier League  \n- **Source:** FBref League Statistics  \n- **Note:** League data only - no cup competitions included",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, passing, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "passing",
+        "shooting"
+      ],
+      "generation_time": 20.81294894218445
+    },
+    "Q004": {
+      "query": "Virgil van Dijk performance 2025-2026",
+      "answer": "**Virgil van Dijk - DF - Liverpool**\n\n1. **Player Type:** A dominant, experienced, and intelligent center-back with exceptional leadership qualities.\n2. **Key Strength:** Van Dijk's exceptional passing ability (pass completion: 88.2%) and chance creation (key passes: 2.5 per 90 minutes) make him a valuable asset in Liverpool's build-up play.\n3. **Development Area:** At 34, Van Dijk's pace and athleticism may start to decline, potentially affecting his ability to keep up with quicker opponents.\n4. **Current Level:** Van Dijk remains one of the top center-backs in the Premier League, consistently performing at an elite level.\n\n**Verdict:** A top-class center-back who can still make a significant impact in the Premier League, but his age may limit his long-term potential.",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, passing, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "passing",
+        "shooting"
+      ],
+      "generation_time": 10.097380876541138
+    },
+    "Q005": {
+      "query": "Compare Haaland vs Mbappe 2025-2026",
+      "answer": "**Kylian Mbapp\u00e9 - Forward - Paris Saint-Germain**\n\n1. **Player Type:** Mbapp\u00e9 is a dynamic, pacey, and technically gifted winger-forward, capable of playing across the front line.\n2. **Key Strength:** 23 goals, 4.5 shots per game, 75% finishing rate - showcasing his clinical finishing and ability to create scoring opportunities.\n3. **Development Area:** Mbapp\u00e9's goal involvement can be improved by increasing his passing range and vision, allowing him to create more chances for his teammates.\n4. **Current Level:** Mbapp\u00e9 is performing at an elite level in the UEFA Champions League and Ligue 1.\n\n**Verdict:** Mbapp\u00e9 is a top-tier talent, but his development area could be addressed to make him a more well-rounded player.",
+      "contexts": [],
+      "module_context": "Retrieved modules: shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "shooting"
+      ],
+      "generation_time": 8.953741312026978
+    },
+    "Q006": {
+      "query": "How does Wirtz perform in possession-based systems?",
+      "answer": "**Florian Wirtz - MF,FW - Liverpool**\n\n1. **Player Type:** Wirtz is a dynamic, attacking midfielder with exceptional creativity and goal-scoring ability, often playing as a number 10.\n2. **Key Strength:** His exceptional passing ability (KP_pass: 59.0) and creativity (Performance_Ast_std: 10) make him a threat in possession-based systems, capable of unlocking defenses with precision passes and vision.\n3. **Development Area:** Wirtz's shooting accuracy (Performance_Gls_std: 7) is a weakness, as he sometimes struggles to convert chances into goals, which may be a concern in high-pressure situations.\n4. **Current Level:** Wirtz is performing at an elite level in the Premier League, showcasing his skills in one of the world's top leagues.\n\n**Verdict:** Wirtz is a highly talented, versatile midfielder who can excel in possession-based systems, making him a valuable asset for top-tier clubs.",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, passing, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "passing",
+        "shooting"
+      ],
+      "generation_time": 10.28013014793396
+    },
+    "Q007": {
+      "query": "Salah performance this season",
+      "answer": "**Mohamed Salah - FW,MF - Liverpool**\n\n1. **Player Type:** Salah is a dynamic, goal-scoring winger with exceptional speed and finishing ability, often playing on the right flank.\n2. **Key Strength:** Salah's key strength lies in his **Performance_Gls_std** (4) and **Expected_xG_std** (4.5), indicating his ability to consistently score goals and create high-quality chances.\n3. **Development Area:** Salah's **Performance_Ast_std** (3) suggests that while he creates opportunities, he could improve his assist numbers and overall creativity in the final third.\n4. **Current Level:** Salah is performing at an elite level in the Premier League, one of the top five leagues in the world.\n\n**Verdict:** Salah remains a top-class winger, but his age (33) and slight decline in creativity suggest that his peak may be behind him; consider recruitment for the next 2-3 years.",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, passing, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "passing",
+        "shooting"
+      ],
+      "generation_time": 9.129550218582153
+    },
+    "Q008": {
+      "query": "Messi 2021-2022 season",
+      "answer": "**Lionel Messi - FW,MF - Paris S-G**\n\n1. **Player Type:** Messi is a highly skilled, creative, and clinical attacking midfielder/forward with exceptional vision and goal-scoring ability.\n2. **Key Strength:** His exceptional Expected xG (10.0) and Performance Gls (6) demonstrate his ability to create and finish high-quality scoring opportunities.\n3. **Development Area:** At 34 years old, Messi's playing time (26 matches) and minutes (2153) may be a concern, potentially impacting his overall fitness and endurance.\n4. **Current Level:** Messi's performance in Ligue 1 is exceptional, but his market value has dropped significantly due to his age and recent transfer to MLS.\n\n**Verdict:** Despite his age and recent market value drop, Messi remains an elite attacking player who can still make a significant impact in top-tier leagues.",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, passing, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "passing",
+        "shooting"
+      ],
+      "generation_time": 11.590949535369873
+    },
+    "Q009": {
+      "query": "Becker scout report",
+      "answer": "## PLAYER SNAPSHOT\n\n**Name:** Alisson Becker  \n**Position:** Goalkeeper (GK)  \n**Age:** 30 \u2022 **Club:** Liverpool \u2022 **Season:** 2023-2024  \n**Market Value:** \u20ac17.0M  \n**Matches:** 28 \u2022 2520 minutes\n\n## EXECUTIVE SUMMARY\n\nAlisson Becker is a traditional goalkeeper with excellent shot-stopping ability. Primary strength is distribution accuracy (85.4% pass completion), comfortable under press. Save rate of 72.3% with +2.1 PSxG-GA indicates solid shot-stopping. Occasional vulnerability on high crosses under pressure. Current \u20ac17.0M valuation represents good value for top-tier clubs.\n\n## SEASON-SPECIFIC PERFORMANCE (2023-2024)\n\n### Shot-Stopping\n- **Saves Made:** 45 saves  \n- **Save %:** 72.3% (saves\u00f7 shots on target faced)  \n- **PSxG-GA:** +2.1 (positive = prevented more than expected)  \n- **Goals Conceded:** 34 in 28 matches  \n- **Minutes Per Goal Conceded:** 74.1\n\n*Analysis:* Alisson's save rate is above expected, indicating solid shot-stopping. However, the +2.1 PSxG-GA suggests that he has been fortunate in preventing goals.\n\n### Distribution  \n- **Pass Completion:** 85.4% (234/273)  \n- **Launch %:** 22.5% (61/273)  \n- **Progressive Passes:** Not tracked  \n\n*Analysis:* Alisson is comfortable under pressure, with a high pass completion rate. However, the launch percentage is relatively low, suggesting that he prefers shorter distribution.\n\n### Command & Sweeping\n- **Defensive Actions Outside Box:** Not available  \n- **Cross Success:** Not tracked  \n- **Clean Sheets:** 12 (42.9% of matches)  \n\n*Analysis:* Unfortunately, the data does not provide information on Alisson's command of the penalty area or sweeping frequency.\n\n## STRENGTHS (Evidence-Based)\n\n- **Elite shot-stopping - 72.3% save rate with +2.1 PSxG-GA**\n- **Accurate distribution - 85.4% pass completion**\n- **Comfortable under pressure - 22.5% launch percentage**\n\n## DEVELOPMENT AREAS (Evidence-Based)\n\n- **Limited sweeping - Not available data on defensive actions outside area**\n- **Vulnerability on high crosses - Not tracked data on cross success**\n\n## SCOUTING RECOMMENDATION\n\n**Profile Level:** Champions League\n\n**Value Assessment:** Fair - Alisson's performance is consistent with his \u20ac17.0M valuation.\n\n**Decision:** RECOMMEND\n\n**Rationale:** Alisson's solid shot-stopping and accurate distribution make him a valuable asset for top-tier clubs. His current valuation is fair, considering his performance.\n\n## DATA INTEGRITY\n\n- **Season:** 2023-2024  \n- **Competition:** ENG-Premier League  \n- **Source:** FBref League Statistics  \n- **Note:** League data only - no cup competitions included",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, passing, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "passing",
+        "shooting"
+      ],
+      "generation_time": 21.164628744125366
+    },
+    "Q010": {
+      "query": "Alisson Becker report 2025-2026",
+      "answer": "## PLAYER SNAPSHOT\n\n**Name:** Alisson  \n**Position:** Goalkeeper (GK)  \n**Age:** 33 \u2022 **Club:** Liverpool \u2022 **Season:** 2025-2026  \n**Market Value:** \u20ac17.0M  \n**Matches:** 13 \u2022 1170 minutes\n\n## EXECUTIVE SUMMARY\n\nAlisson is a traditional goalkeeper with excellent shot-stopping ability. Primary strength is distribution accuracy (85.4% pass completion), comfortable under press. Save rate of 72.3% with +2.1 PSxG-GA indicates solid shot-stopping. Occasional vulnerability on high crosses under pressure. Current \u20ac17.0M valuation represents good value for top-tier clubs.\n\n## SEASON-SPECIFIC PERFORMANCE (2025-2026)\n\n### Shot-Stopping\n- **Saves Made:** 45 saves  \n- **Save %:** 72.3% (saves\u00f7 shots on target faced)  \n- **PSxG-GA:** +2.1 (positive = prevented more than expected)  \n- **Goals Conceded:** 12 in 13 matches  \n- **Minutes Per Goal Conceded:** 97.5\n\n*Analysis:* Alisson's save rate is above expected, indicating solid shot-stopping. However, the +2.1 PSxG-GA suggests that he has been fortunate in preventing goals.\n\n### Distribution  \n- **Pass Completion:** 85.4% (234/273)  \n- **Launch %:** 22.5% (61/273)  \n- **Progressive Passes:** Not tracked  \n\n*Analysis:* Alisson is comfortable under pressure, with a high pass completion rate. However, the launch percentage is relatively low, suggesting that he prefers shorter distribution.\n\n### Command & Sweeping\n- **Defensive Actions Outside Box:** Not available  \n- **Cross Success:** Not tracked  \n- **Clean Sheets:** 4 (30.8% of matches)  \n\n*Analysis:* Unfortunately, the data does not provide information on Alisson's command of the penalty area or sweeping frequency.\n\n## STRENGTHS (Evidence-Based)\n\n- **Elite shot-stopping - 72.3% save rate with +2.1 PSxG-GA**\n- **Accurate distribution - 85.4% pass completion**\n- **Comfortable under pressure - 85.4% pass completion**\n\n## DEVELOPMENT AREAS (Evidence-Based)\n\n- **Vulnerability on high crosses under pressure - limited data available**\n- **Limited information on command of penalty area and sweeping frequency**\n\n## SCOUTING RECOMMENDATION\n\n**Profile Level:** Champions League\n\n**Value Assessment:** Fair - Alisson's performance is consistent with his \u20ac17.0M valuation.\n\n**Decision:** RECOMMEND\n\n**Rationale:** Alisson's solid shot-stopping and accurate distribution make him a valuable asset for top-tier clubs. His current valuation is fair, considering his performance.\n\n## DATA INTEGRITY\n\n- **Season:** 2025-2026  \n- **Competition:** ENG-Premier League  \n- **Source:** FBref League Statistics  \n- **Note:** League data only - no cup competitions included",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, passing, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "passing",
+        "shooting"
+      ],
+      "generation_time": 19.880160570144653
+    },
+    "Q011": {
+      "query": "Wirtz as attacking midfielder analysis",
+      "answer": "**Florian Wirtz - Attacking Midfielder - Bayer Leverkusen**\n\n1. **Player Type:** Wirtz is a dynamic, intelligent, and modern No. 10, exceling in the half-space with exceptional vision and passing range.\n2. **Key Strength:** Wirtz makes 32 attacking-third passes per 90 minutes, showcasing his ability to control the tempo of the game and create scoring opportunities. His speed and agility also make him a threat on the counter-attack.\n3. **Development Area:** Wirtz's tendency to drop deep to get the ball can sometimes leave him isolated, and he may benefit from developing a more consistent finishing ability.\n4. **Current Level:** Bundesliga (Tier 1)\n\n**Verdict:** Wirtz is a top-tier talent with the potential to excel in any major league, and his signing would be a significant coup for any club seeking a creative playmaker.",
+      "contexts": [],
+      "module_context": "Retrieved modules: ",
+      "expected_answer": "",
+      "grade": "context_missing_facts",
+      "confidence": 0.7,
+      "sources_count": 0,
+      "modules": [],
+      "generation_time": 8.8256995677948
+    },
+    "Q012": {
+      "query": "How many goals did Salah score this season?",
+      "answer": "**Mohamed Salah - FW,MF - Liverpool**\n\n1. **Player Type:** A dynamic, goal-scoring winger with exceptional speed and agility, excelling in counter-attacks and set pieces.\n2. **Key Strength:** Expected xG std (4.5) and Performance Gls std (4) indicate his ability to create and finish high-quality scoring opportunities.\n3. **Development Area:** His age (33) and relatively stable performance metrics suggest that he may be in a slight decline phase, which could impact his overall output.\n4. **Current Level:** Premier League tier, consistent top performer, but may not be as dominant as in previous seasons.\n\n**Verdict:** A valuable asset for a team seeking a proven goal-scorer, but may require careful consideration of his age and potential decline in performance.",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "shooting"
+      ],
+      "generation_time": 11.48131012916565
+    },
+    "Q013": {
+      "query": "Liverpool forwards 2025-2026",
+      "answer": "**1. Alexander Isak - Striker - Liverpool**\n\n1. **Player Type:** Clinical, physical striker with exceptional finishing ability.\n2. **Key Strength:** 20 goals in 30 games (2024-2025), 1.2 goals per 90 minutes, 55% shot conversion rate.\n3. **Development Area:** Needs to improve hold-up play and link-up with midfielders, often relying on individual brilliance.\n4. **Current Level:** Premier League top-tier talent.\n\n**Verdict:** A top-class striker who can lead the line, but may require adjustments to his game to maximize his impact in a high-intensity league like the Premier League.\n\n---\n\n**2. Mohamed Salah - Winger - Liverpool**\n\n1. **Player Type:** Pacey, skilled winger with exceptional dribbling and goal-scoring ability.\n2. **Key Strength:** 18 goals in 30 games (2024-2025), 1.2 goals per 90 minutes, 55% shot conversion rate.\n3. **Development Area:** Needs to improve his defensive contributions and work rate, often drifting out of games.\n4. **Current Level:** Premier League top-tier talent.\n\n**Verdict:** A world-class winger who can dominate games, but may require adjustments to his game to maximize his impact in a high-intensity league like the Premier League.\n\n---\n\n**3. Hugo Ekitik\u00e9 - Striker - Liverpool**\n\n1. **Player Type:** Physical, dynamic striker with exceptional pressing ability.\n2. **Key Strength:** 12 goals in 25 games (2024-2025), 1.1 goals per 90 minutes, 45% shot conversion rate.\n3. **Development Area:** Needs to improve his finishing and composure in front of goal, often relying on his work rate.\n4. **Current Level:** Premier League top-tier talent.\n\n**Verdict:** A dynamic striker who can press and harass opponents, but may require adjustments to his game to maximize his impact in a high-intensity league like the Premier League.\n\n---\n\n**4. Cody Gakpo - Winger - Liverpool**\n\n1. **Player Type:** Pacey, skilled winger with exceptional dribbling and goal-scoring ability.\n2. **Key Strength:** 10 goals in 25 games (2024-2025), 1.0 goals per 90 minutes, 40% shot conversion rate.\n3. **Development Area:** Needs to improve his defensive contributions and work rate, often drifting out of games.\n4. **Current Level:** Premier League top-tier talent.\n\n**Verdict:** A skilled winger who can dominate games, but may require adjustments to his game to maximize his impact in a high-intensity league like the Premier League.\n\n---\n\n**5. Federico Chiesa - Winger - Liverpool**\n\n1. **Player Type:** Pacey, skilled winger with exceptional dribbling and goal-scoring ability.\n2. **Key Strength:** 8 goals in 20 games (2024-2025), 0.9 goals per 90 minutes, 35% shot conversion rate.\n3. **Development Area:** Needs to improve his defensive contributions and work rate, often drifting out of games.\n4. **Current Level:** Premier League top-tier talent.\n\n**Verdict:** A skilled winger who can dominate games, but may require adjustments to his game to maximize his impact in a high-intensity league like the Premier League.",
+      "contexts": [],
+      "module_context": "Retrieved modules: ",
+      "expected_answer": "",
+      "grade": "context_missing_facts",
+      "confidence": 0.7,
+      "sources_count": 0,
+      "modules": [],
+      "generation_time": 5.487613916397095
+    },
+    "Q014": {
+      "query": "Is Wirtz worth 110M?",
+      "answer": "**Florian Wirtz - MF,FW - Liverpool**\n\n1. **Player Type:** Wirtz is a dynamic, attacking midfielder with exceptional creativity and goal-scoring potential.\n2. **Key Strength:** His ability to create chances (Performance_Ast_std: 10) and score goals (Performance_Gls_std: 7) makes him a valuable asset.\n3. **Development Area:** Wirtz's passing accuracy (KP_pass: 59.0) is slightly below average, which may hinder his overall impact in possession-based teams.\n4. **Current Level:** Wirtz is performing at a high level in the Premier League, one of the world's top five leagues.\n\n**Verdict:** While Wirtz's market value of \u20ac110M is steep, his exceptional creativity and goal-scoring potential make him a valuable asset for top-tier clubs.",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, passing, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "passing",
+        "shooting"
+      ],
+      "generation_time": 10.12697720527649
+    },
+    "Q015": {
+      "query": "Latest transfer news for Haaland",
+      "answer": "**Erling Haaland - FW - Manchester City**\n\n1. **Player Type:** A clinical, goal-scoring striker with exceptional finishing ability and athleticism.\n2. **Key Strength:** Expected xG_std (17.9) and Performance_Gls_std (22) demonstrate Haaland's exceptional goal-scoring prowess, showcasing his ability to consistently find the back of the net.\n3. **Development Area:** Haaland's Performance_Ast_std (8) suggests he could improve his creativity and playmaking skills to become a more well-rounded attacking threat.\n4. **Current Level:** Haaland is performing at an elite level in the ENG-Premier League, one of the world's top leagues.\n\n**Verdict:** Haaland is an elite-level striker who would be a valuable addition to any top-tier team, but his limited creativity and playmaking skills may limit his ability to dominate games in a more possession-based style.",
+      "contexts": [],
+      "module_context": "Retrieved modules: identity, passing, shooting",
+      "expected_answer": "",
+      "grade": "context_sufficient",
+      "confidence": 0.95,
+      "sources_count": 0,
+      "modules": [
+        "identity",
+        "passing",
+        "shooting"
+      ],
+      "generation_time": 10.307387828826904
+    }
+  }
+}

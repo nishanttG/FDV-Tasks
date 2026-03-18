@@ -1,0 +1,85 @@
+# Core LLM / Agent Framework
+# Main orchestration layer for RAG pipelines
+langchain
+
+# Community integrations (Chroma, loaders, tools)
+langchain-community
+langchain-experimental
+
+# LangGraph for multi-step agentic workflows (CRAG, REFRAG, Self-Check)
+langgraph
+
+# Groq-hosted fast inference (LLaMA-3-8B for grading & verification)
+langchain-groq
+
+
+# Vector Database & Embeddings
+# Local persistent vector store for RAG
+chromadb
+
+# Sentence embeddings for structured + unstructured football data
+sentence-transformers
+
+
+# Data Collection & Processing
+# Football statistics from FBref, Transfermarkt, etc.
+soccerdata
+
+# Core data manipulation
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+
+# HTML parsing and scraping for tactical blogs
+beautifulsoup4
+newspaper3k
+lxml
+requests
+
+# Web Search (Agentic Fallback)
+# Tavily API for real-time contextual retrieval
+tavily-python
+
+
+# UI / Application Layer
+# Interactive demo dashboard
+streamlit
+
+
+
+# Configuration & Validation
+# Environment variable management
+python-dotenv
+notebook 
+jupyterlab
+ipykernel
+
+
+# Data validation & schema enforcement (lightweight alternative to GE)
+pandera
+
+# Type-safe configuration & agent outputs
+pydantic
+
+
+# Evaluation & Testing
+# RAG evaluation metrics (faithfulness, relevance, correctness)
+ragas
+
+# Unit testing
+pytest
+pytest-cov
+
+
+# Logging & Utilities
+# Structured logging (optional but recommended)
+loguru
+
+
+# Optional: Local LLM Execution
+
+# Local LLM (CPU inference)
+
+reportlab
