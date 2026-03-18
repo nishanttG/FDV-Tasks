@@ -1,0 +1,41 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyInstaller/build
+dist/
+build/
+*.spec
+
+# Logs and runtime
+*.log
+runs/
+
+# Distribution / packaging
+*.egg-info/
+.eggs/
+
+# Temporary files
+*.tmp
+
+

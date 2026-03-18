@@ -1,0 +1,38 @@
+# --- Core Deep Learning & Vision ---
+torch>=2.0.0            # Core framework (includes AMP support)
+torchvision>=0.15.0     # Datasets (CIFAR), Transforms (RandAugment, MixUp), Models
+timm>=0.9.0             # "PyTorch Image Models" - Crucial for transfer learning & advanced training recipes
+torchinfo               # For viewing model summaries (Day 2: From-scratch CNN)
+
+# --- Data Science & Engineering ---
+numpy
+pandas                  # Data manipulation
+scikit-learn            # Metrics (Confusion Matrix) and splits
+tqdm                    # Progress bars for training loops
+
+# --- Visualization & Attribution (Day 4) ---
+matplotlib              # Basic plotting
+seaborn                 # Heatmaps (Confusion Matrix)
+grad-cam                # Interpretabiltiy (Jacobgil implementation for Day 4)
+torchmetrics            # For Calculation of ECE (Calibration) and other reliable metrics
+
+# --- Experiment Tracking & Robustness (House Rules) ---
+wandb                   # Weights & Biases for logging curves and artifacts
+python-dotenv           # Managing environment variables (API keys)
+
+# --- Data Validation (House Rules) ---
+pandera                 # Schema validation for DataFrames (Lighter weight than Great Expectations)
+
+# --- API & Web Application (Deliverables) ---
+fastapi                 # Model serving API
+uvicorn[standard]       # ASGI Server
+python-multipart        # Required for image file uploads in FastAPI
+streamlit               # Interactive Dashboard/Gallery
+
+# --- Desktop App Side Quest (Day 6) ---
+PySide6                 # Qt framework for the Desktop GUI (Modern alternative to Tkinter)
+
+# --- Testing & Quality Assurance (House Rules) ---
+pytest                  # Unit testing
+pytest-cov              # Coverage reporting
+httpx                   # For testing FastAPI endpoints
